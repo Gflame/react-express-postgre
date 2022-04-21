@@ -1,0 +1,24 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+  .box-group {
+    font-family: sans-serif;
+    text-align: center;
+    border: 1px solid grey;
+    
+    height: 300px;
+    justify-content: space-evenly;
+  }
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
